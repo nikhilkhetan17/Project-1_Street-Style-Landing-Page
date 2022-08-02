@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+}
+
+/* ****************************navbar-container******************************* */
+
+.navbar-container {
+  display: flex;
+  height: 20vh;
+  /* background-color: grey; */
+  align-items: center;
+  justify-content: space-around;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+}
+
+.list li {
+  padding: 0 20px;
+  list-style-type: none;
+  font-family: Orbitron;
+  font-weight: 500;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+ul li:first-child {
+  text-decoration: underline #000000 solid 2px;
+  font-weight: 700;
+}
+
+.button-group {
+  display: flex;
+  align-items: center;
+}
+
+svg {
+  cursor: pointer;
+}
+
+.nav-button {
+  padding: 3px 30px;
+  border-radius: 10px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: transparent;
+  margin-left: 5px;
+  color: #5a5353;
+  cursor: pointer;
+  border: 2px solid #000000;
+}
+
+/* -----------------------------Hero Banner Section------------------------------------------------- */
+
+.hero-container {
+  display: flex;
+  height: 80vh;
+  /* border: 2px solid red; */
+  justify-content: space-between;
+}
+
+.person-img {
+  position: relative;
+  right: 200px;
+  top: 20px;
+  width: 330px;
+  z-index: 1;
+}
+
+.square img {
+  position: relative;
+  top: 180px;
+  left: 190px;
+  width: 300px;
+}
+
+.star img {
+  position: absolute;
+  left: 90%;
+  bottom: 74%;
+  width: 40px;
+}
+
+.globe img {
+  position: absolute;
+  left: 55%;
+  width: 45px;
+  top: 17%;
+}
+/* --------------------------------hero-container-right------------------------------ */
+
+.hero-container-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.hero-heading {
+  font-size: 50px;
+  font-family: Orbitron;
+  align-self: flex-start;
+}
+
+.hero-description {
+  width: 85%;
+  text-align: center;
+  color: #5a5353;
+  font-family: Poppins;
+}
+
+.button-email {
+  padding: 5px 25px;
+  font-size: 15px;
+  font-family: Orbitron;
+  border-radius: 10px;
+  background-color: transparent;
+  cursor: pointer;
+  border: 2px solid #000000;
+  font-weight: 700;
+  color: #5a5353;
+}
+
+.button-join {
+  padding: 5px 5px;
+  font-family: Orbitron;
+  border-radius: 10px;
+  background-color: #000000;
+  color: #ffffff;
+  cursor: pointer;
+  margin: 0px 10px;
+  font-size: 15px;
+  font-weight: 500;
+  border: 2px solid #000000;
+}
+
+.contact-heading {
+  text-align: center;
+  font-family: Poppins;
+  color: #5a5353;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.icons img {
+  margin-left: 10px;
+  width: 30px;
+  cursor: pointer;
+}
