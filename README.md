@@ -14,7 +14,7 @@
 
 ## 📌 What I Learned:
 
-- ### Learned about CSS postion property.
+- ### Learned about CSS postion property
 - ### Learned about using of Z-index
 - ### Learned about Flexbox
 
@@ -22,7 +22,7 @@
 
 ## 📌 Time Taken To Complete This Project:
 
-- ### It took me 3 hours to complete this project.
+- ### It took me 3 hours to complete this project
 
 <br>
 
