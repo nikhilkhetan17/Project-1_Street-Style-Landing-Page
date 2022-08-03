@@ -2,7 +2,7 @@
 
 <br>
 
-## 📌 Live Site URL: <a href="https://streetstylepage.netlify.app">**Visit Now** </a>
+## 📌 Live Site URL: <a href="https://streetstylepage.netlify.app" target="_blank">**Visit Now**</a>
 
 <br>
 
