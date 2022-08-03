@@ -1,15 +1,12 @@
 ## ⭐Project 01- Street Style Landing Page ⭐
 
 <br>
-<br>
 
 ## 📌 Live Site URL: <a href="https://streetstylepage.netlify.app">**Visit Now** </a>
 
 <br>
 
 ## 📌 Screenshot:
-
-<br>
 
 ![project1](./assets/project1.png)
 
@@ -30,8 +27,6 @@
 <br>
 
 ## 📌 Social Links:
-
-<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkhetan17/)
 
